@@ -214,7 +214,7 @@
 
     <!-- Full-width Image Section -->
     <div class="w-full">
-      <img src="/images/home-footer-01.jpg" alt="海岸線海廢調查" class="w-full object-cover h-auto max-h-[700px]">
+      <img src="/images/home-footer-01.jpg" alt="海岸線海廢調查" class="w-full object-cover h-auto max-h-[400px] md:max-h-[700px]">
     </div>
 
     <!-- Footer -->
