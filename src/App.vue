@@ -16,7 +16,7 @@
     <div class="hero py-10 text-[#c6a458]" style="background-color: #f5efe4;">
       <div class="hero-content text-center">
         <div>
-          <h1 class="text-4xl md:text-5xl font-bold leading-tight">童軍總會 X RE-THINK</h1>
+          <h1 class="text-3xl md:text-5xl font-bold leading-tight">童軍總會 X RE-THINK</h1>
           <h2 class="text-2xl md:text-3xl font-semibold mt-2">全國海岸線海廢調查</h2>
           <div class="mt-6 flex justify-center">
             <div class="badge bg-[#5cbfcb] text-white border-none badge-lg mx-1">環保行動</div>
@@ -223,11 +223,11 @@
         <p class="font-bold text-xl">童軍總會 X RE-THINK</p> 
         <p>全國海岸線海廢調查 © 2025</p>
         <div class="flex flex-col mt-4 space-y-3">
-          <a href="https://rethinktw.org/" target="_blank" rel="noopener noreferrer" class="btn btn-outline text-white hover:bg-white hover:text-[#d49c62] btn-block">
-            <span class="font-bold">RETHINK 官方網站</span>
-          </a>
           <a href="https://www.scout.org.tw/" target="_blank" rel="noopener noreferrer" class="btn btn-outline text-white hover:bg-white hover:text-[#d49c62] btn-block">
             <span class="font-bold">中華民國童軍總會</span>
+          </a>
+          <a href="https://rethinktw.org/" target="_blank" rel="noopener noreferrer" class="btn btn-outline text-white hover:bg-white hover:text-[#d49c62] btn-block">
+            <span class="font-bold">RETHINK 官方網站</span>
           </a>
         </div>
       </div>
