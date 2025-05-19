@@ -1,0 +1,50 @@
+/* Custom gradients for fantasy theme */
+/* The fantasy theme already has these colors:
+  --p: 332 81% 51%;          primary: #e779c1 (pink)
+  --s: 206 63% 43%;          secondary: #58c7f3 (blue)
+  --a: 271 91% 65%;          accent: #be7cfa (purple)
+  --n: 260 60% 38%;          neutral: #4e3a8a (dark purple)
+  --b1: 0 0% 100%;           base-100: #ffffff (white)
+*/
+
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  min-height: 100vh;
+}
+
+#app {
+  width: 100%;
+  margin: 0 auto;
+}
+
+/* Custom animations */
+.hover-lift {
+  transition: transform 0.3s ease;
+}
+
+.hover-lift:hover {
+  transform: translateY(-8px);
+}
+
+/* Custom gradients for fantasy theme */
+.gradient-primary {
+  background: linear-gradient(135deg, #e779c1 0%, #58c7f3 100%);
+  color: white;
+}
+
+.gradient-secondary {
+  background: linear-gradient(135deg, #58c7f3 0%, #be7cfa 100%);
+  color: white;
+}
+
+.gradient-accent {
+  background: linear-gradient(135deg, #be7cfa 0%, #e779c1 100%);
+  color: white;
+}
