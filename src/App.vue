@@ -47,11 +47,6 @@ onMounted(() => {
       </div>
     </div>
 
-    <!-- Banner Image Section -->
-    <div class="container mx-auto px-4 py-6">
-      <img src="/images/home-banner.jpg" alt="童軍與海廢調查活動" class="w-full h-auto rounded-lg shadow-lg">
-    </div>
-
     <!-- Project Information Sections -->
     <div class="container mx-auto px-4 py-10">
       <!-- Introduction Section -->
@@ -107,6 +102,11 @@ onMounted(() => {
       </div>
     </div>
 
+    <!-- Banner Image Section -->
+    <div class="container mx-auto px-4 py-6 flex justify-center">
+      <img src="/images/home-banner.jpg" alt="童軍與海廢調查活動" class="w-full md:w-1/2 h-auto rounded-lg shadow-lg">
+    </div>
+
     <!-- Main Content with Three Cards for File Downloads (Vertical Layout) -->
     <div class="container mx-auto px-4 py-12">
       <h2 class="text-3xl font-bold text-center mb-10">活動資料下載</h2>
@@ -118,27 +118,43 @@ onMounted(() => {
             <div class="divider divider-secondary"></div>
             <ul class="menu bg-transparent rounded-box w-full text-lg">
               <li>
-                <a href="#" class="flex items-center gap-2">
+                <a href="https://docs.google.com/presentation/d/19gE0pfixlM3L-GSkKcPZb40NMDduhHAK/edit?usp=drive_link&ouid=115104828132103303227&rtpof=true&sd=true" class="flex items-center gap-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
-                  海廢調查計畫簡介.pdf
+                  說明會簡報-全國海岸線海廢調查.pptx
                 </a>
               </li>
               <li>
-                <a href="#" class="flex items-center gap-2">
+                <a href="https://drive.google.com/file/d/1IFx2F5rsMRiPkcPVIzCprcFrq52Rhb1T/view" class="flex items-center gap-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
-                  調查方法與注意事項.pdf
+                  說明會影片
                 </a>
               </li>
               <li>
-                <a href="#" class="flex items-center gap-2">
+                <a href="https://drive.google.com/file/d/13nuPtiz-Ixb48231xKAtu6iCX6sfQa3U/view?usp=drive_link" class="flex items-center gap-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
-                  環境保護指南手冊.pdf
+                  實施計畫-全國海岸線海廢調查.pdf
+                </a>
+              </li>
+              <li>
+                <a href="https://drive.google.com/file/d/1GpOyoF2UcDoYj9pZ8qiTVgxl80KZUVHY/view?usp=drive_link" class="flex items-center gap-2">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                  </svg>
+                  地球部落 EarthTribe 申請說明.pdf
+                </a>
+              </li>
+              <li>
+                <a href="https://docs.google.com/forms/d/1GFpf5eVZBJB40fVW1uunOT25EoHRX8l8LvQihBUk2JY/viewform?edit_requested=true" class="flex items-center gap-2">
+                  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                  </svg>
+                  2025全國海岸線海廢調查計畫-各群團認養報名
                 </a>
               </li>
             </ul>
@@ -152,27 +168,19 @@ onMounted(() => {
             <div class="divider divider-accent"></div>
             <ul class="menu bg-transparent rounded-box w-full text-lg">
               <li>
-                <a href="#" class="flex items-center gap-2">
+                <a href="https://docs.google.com/spreadsheets/d/15KkdM-YP5OcOAXz17-xKLGkHhDpL-SNCFAGgj71V7ZE/edit?usp=drive_link" class="flex items-center gap-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
-                  2025年第一季調查報告.pdf
+                  全國海岸線海廢調查計畫-童軍團進度追蹤表.xlsx
                 </a>
               </li>
               <li>
-                <a href="#" class="flex items-center gap-2">
+                <a href="https://docs.google.com/spreadsheets/d/1Z8ZoNXDJzvWovQZ4OR2g0Asf3k2HMYur/edit?usp=drive_link&ouid=115104828132103303227&rtpof=true&sd=true" class="flex items-center gap-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
-                  各地區調查進度統計表.xlsx
-                </a>
-              </li>
-              <li>
-                <a href="#" class="flex items-center gap-2">
-                  <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
-                  </svg>
-                  海廢數據分析結果.pdf
+                  146點位認養表單-全國海岸線海廢調查.xlsx
                 </a>
               </li>
             </ul>
@@ -182,31 +190,31 @@ onMounted(() => {
         <!-- 表單 Card -->
         <div class="card bg-base-100 border-4 border-primary shadow-xl hover:shadow-2xl hover-lift">
           <div class="card-body">
-            <h2 class="card-title text-3xl text-primary text-center mb-4 font-bold">表單下載</h2>
+            <h2 class="card-title text-3xl text-primary text-center mb-4 font-bold">表單</h2>
             <div class="divider divider-primary"></div>
             <ul class="menu bg-transparent rounded-box w-full text-lg">
               <li>
-                <a href="#" class="flex items-center gap-2">
+                <a href="https://drive.google.com/file/d/1HurpjQ0XiLCkJ1hXXyAbdBFSpNpSx4PP/view?usp=drive_link" class="flex items-center gap-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
-                  海廢調查記錄表.docx
+                  BA紙本紀錄表.pdf
                 </a>
               </li>
               <li>
-                <a href="#" class="flex items-center gap-2">
+                <a href="https://drive.google.com/file/d/1rnjXA5JcSCl4ebrgltq4GumsLPgs5zEX/view?usp=drive_link" class="flex items-center gap-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
-                  參與證明申請表.pdf
+                  紙本表單-首次調查.pdf
                 </a>
               </li>
               <li>
-                <a href="#" class="flex items-center gap-2">
+                <a href="https://drive.google.com/file/d/1oUTP3jEoidJLQ67jG3RzMWEGKyo3IA_y/view?usp=drive_link" class="flex items-center gap-2">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
-                  海廢分類與統計表格.xlsx
+                  紙本表單-非首次調查.pdf
                 </a>
               </li>
             </ul>
@@ -220,7 +228,7 @@ onMounted(() => {
       <div class="container mx-auto text-center">
         <h2 class="text-3xl font-bold mb-4">加入我們的行動</h2>
         <p class="max-w-2xl mx-auto mb-6">一起為台灣的海岸線環境盡一份心力，參與全國海岸線海廢調查，為環境永續發展貢獻力量。</p>
-        <button class="btn btn-secondary btn-lg">立即報名</button>
+        <a href="https://docs.google.com/forms/d/1GFpf5eVZBJB40fVW1uunOT25EoHRX8l8LvQihBUk2JY/viewform?edit_requested=true" target="_blank" rel="noopener noreferrer" class="btn btn-secondary btn-lg">立即報名</a>
       </div>
     </div>
 
