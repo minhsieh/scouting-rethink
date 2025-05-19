@@ -98,7 +98,7 @@
             <div class="divider" style="border-color: #5cbfcb;"></div>
             <ul class="menu bg-transparent rounded-box w-full text-lg">
               <li>
-                <a href="https://docs.google.com/presentation/d/19gE0pfixlM3L-GSkKcPZb40NMDduhHAK/edit?usp=drive_link&ouid=115104828132103303227&rtpof=true&sd=true" class="flex items-center">
+                <a href="https://docs.google.com/presentation/d/19gE0pfixlM3L-GSkKcPZb40NMDduhHAK/edit?usp=drive_link&ouid=115104828132103303227&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer" class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
@@ -106,7 +106,7 @@
                 </a>
               </li>
               <li>
-                <a href="https://drive.google.com/file/d/1IFx2F5rsMRiPkcPVIzCprcFrq52Rhb1T/view" class="flex items-center">
+                <a href="https://drive.google.com/file/d/1IFx2F5rsMRiPkcPVIzCprcFrq52Rhb1T/view" target="_blank" rel="noopener noreferrer" class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
@@ -114,7 +114,7 @@
                 </a>
               </li>
               <li>
-                <a href="https://drive.google.com/file/d/13nuPtiz-Ixb48231xKAtu6iCX6sfQa3U/view?usp=drive_link" class="flex items-center">
+                <a href="https://drive.google.com/file/d/13nuPtiz-Ixb48231xKAtu6iCX6sfQa3U/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
@@ -122,7 +122,7 @@
                 </a>
               </li>
               <li>
-                <a href="https://drive.google.com/file/d/1GpOyoF2UcDoYj9pZ8qiTVgxl80KZUVHY/view?usp=drive_link" class="flex items-center">
+                <a href="https://drive.google.com/file/d/1GpOyoF2UcDoYj9pZ8qiTVgxl80KZUVHY/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
@@ -130,7 +130,7 @@
                 </a>
               </li>
               <li>
-                <a href="https://docs.google.com/forms/d/1GFpf5eVZBJB40fVW1uunOT25EoHRX8l8LvQihBUk2JY/viewform?edit_requested=true" class="flex items-center">
+                <a href="https://docs.google.com/forms/d/1GFpf5eVZBJB40fVW1uunOT25EoHRX8l8LvQihBUk2JY/viewform?edit_requested=true" target="_blank" rel="noopener noreferrer" class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
@@ -148,7 +148,7 @@
             <div class="divider" style="border-color: #d49c62;"></div>
             <ul class="menu bg-transparent rounded-box w-full text-lg">
               <li>
-                <a href="https://docs.google.com/spreadsheets/d/15KkdM-YP5OcOAXz17-xKLGkHhDpL-SNCFAGgj71V7ZE/edit?usp=drive_link" class="flex items-center">
+                <a href="https://docs.google.com/spreadsheets/d/15KkdM-YP5OcOAXz17-xKLGkHhDpL-SNCFAGgj71V7ZE/edit?usp=drive_link" target="_blank" rel="noopener noreferrer" class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
@@ -156,7 +156,7 @@
                 </a>
               </li>
               <li>
-                <a href="https://docs.google.com/spreadsheets/d/1Z8ZoNXDJzvWovQZ4OR2g0Asf3k2HMYur/edit?usp=drive_link&ouid=115104828132103303227&rtpof=true&sd=true" class="flex items-center">
+                <a href="https://docs.google.com/spreadsheets/d/1Z8ZoNXDJzvWovQZ4OR2g0Asf3k2HMYur/edit?usp=drive_link&ouid=115104828132103303227&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer" class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
@@ -174,7 +174,7 @@
             <div class="divider" style="border-color: #c6a458;"></div>
             <ul class="menu bg-transparent rounded-box w-full text-lg">
               <li>
-                <a href="https://drive.google.com/file/d/1HurpjQ0XiLCkJ1hXXyAbdBFSpNpSx4PP/view?usp=drive_link" class="flex items-center">
+                <a href="https://drive.google.com/file/d/1HurpjQ0XiLCkJ1hXXyAbdBFSpNpSx4PP/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
@@ -182,7 +182,7 @@
                 </a>
               </li>
               <li>
-                <a href="https://drive.google.com/file/d/1rnjXA5JcSCl4ebrgltq4GumsLPgs5zEX/view?usp=drive_link" class="flex items-center">
+                <a href="https://drive.google.com/file/d/1rnjXA5JcSCl4ebrgltq4GumsLPgs5zEX/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
@@ -190,7 +190,7 @@
                 </a>
               </li>
               <li>
-                <a href="https://drive.google.com/file/d/1oUTP3jEoidJLQ67jG3RzMWEGKyo3IA_y/view?usp=drive_link" class="flex items-center">
+                <a href="https://drive.google.com/file/d/1oUTP3jEoidJLQ67jG3RzMWEGKyo3IA_y/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="flex items-center">
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
