@@ -1,19 +1,5 @@
 <script setup>
-import { ref, onMounted } from 'vue';
-
-// Define theme
-const theme = ref('light');
-
-// Toggle theme function
-const toggleTheme = () => {
-  theme.value = theme.value === 'light' ? 'dark' : 'light';
-  document.documentElement.setAttribute('data-theme', theme.value);
-};
-
-// Set initial theme on component mount
-onMounted(() => {
-  document.documentElement.setAttribute('data-theme', theme.value);
-});
+// No theme switching functionality needed
 </script>
 
 <template>
@@ -23,13 +9,7 @@ onMounted(() => {
       <div class="flex-1">
         <a class="btn btn-ghost text-xl font-bold">童軍總會 X RE-THINK</a>
       </div>
-      <div class="flex-none">
-        <button @click="toggleTheme" class="btn btn-circle btn-ghost">
-          <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 flex-shrink-0 mr-3" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
-          </svg>
-        </button>
-      </div>
+      <!-- Theme switch removed -->
     </div>
 
     <!-- Hero Section with beach-themed gradient background -->
