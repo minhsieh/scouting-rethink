@@ -67,7 +67,7 @@ onMounted(() => {
           <div class="mb-6">
             <h3 class="text-2xl font-bold bg-primary text-white px-4 py-2 inline-block mb-4"># 預期影響力</h3>
             <ul class="list-disc list-inside space-y-2 text-lg ml-4">
-              <li>得集全台灣 146 個海灘、 12個月的調查數據</li>
+              <li>蒐集全台灣 146 個海灘、 12個月的調查數據</li>
               <li>發布1份台灣海廢品牌審計調查</li>
             </ul>
           </div>
