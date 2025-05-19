@@ -5,7 +5,7 @@ import vue from '@vitejs/plugin-vue'
 export default defineConfig({
   plugins: [vue()],
   server: {
-    allowedHosts: ['scouting-rethink.scout.tw'],
+    allowedHosts: ['scouting-rethink.scout.tw', 'scouting-rethink-dev.scout.tw'],
     host: true
   }
 })

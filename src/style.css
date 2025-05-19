@@ -1,11 +1,18 @@
-/* Custom gradients for fantasy theme */
-/* The fantasy theme already has these colors:
-  --p: 332 81% 51%;          primary: #e779c1 (pink)
-  --s: 206 63% 43%;          secondary: #58c7f3 (blue)
-  --a: 271 91% 65%;          accent: #be7cfa (purple)
-  --n: 260 60% 38%;          neutral: #4e3a8a (dark purple)
-  --b1: 0 0% 100%;           base-100: #ffffff (white)
-*/
+/* Custom theme colors to match the beige/sand, teal, and gold/brown image */
+:root {
+  --p: 43 74% 49%;           /* primary: #c6a458 (gold) */
+  --pc: 40 33% 95%;          /* primary-content: #fcf8f0 (off-white) */
+  --s: 187 52% 55%;          /* secondary: #5cbfcb (teal) */
+  --sc: 40 33% 95%;          /* secondary-content: #fcf8f0 (off-white) */
+  --a: 24 56% 63%;           /* accent: #d49c62 (light brown) */
+  --ac: 40 33% 95%;          /* accent-content: #fcf8f0 (off-white) */
+  --n: 32 15% 32%;           /* neutral: #5c534a (dark brown) */
+  --nc: 40 33% 95%;          /* neutral-content: #fcf8f0 (off-white) */
+  --b1: 40 33% 95%;          /* base-100: #f5efe4 (beige/sand) */
+  --b2: 40 33% 90%;          /* base-200: #ece3d3 (darker beige) */
+  --b3: 40 33% 85%;          /* base-300: #e3d8c3 (even darker beige) */
+  --bc: 32 15% 32%;          /* base-content: #5c534a (dark brown) */
+}
 
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
@@ -22,6 +29,19 @@ body {
 #app {
   width: 100%;
   margin: 0 auto;
+}
+
+/* Custom gradients for the new color scheme */
+.gradient-primary {
+  background: linear-gradient(135deg, #c6a458 0%, #d49c62 100%);
+}
+
+.gradient-secondary {
+  background: linear-gradient(135deg, #5cbfcb 0%, #4a9ba5 100%);
+}
+
+.gradient-accent {
+  background: linear-gradient(135deg, #d49c62 0%, #c6a458 100%);
 }
 
 /* Custom animations */
