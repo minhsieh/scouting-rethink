@@ -16,7 +16,7 @@
 - 前端框架：Vue.js 3
 - 構建工具：Vite
 - UI 框架：Tailwind CSS 和 DaisyUI
-- 部署平台：童軍總會伺服器
+- 部署平台：CloudFlare Pages
 
 ## 相關資源
 
@@ -30,7 +30,3 @@
 
 - [中華民國童軍總會](https://www.scout.org.tw/)
 - [RE-THINK 官方網站](https://rethinktw.org/)
-
-## 開發與維護
-
-本網站由童軍總會與 RE-THINK 合作開發，旨在提供活動參與者便捷的資訊獲取平台。
