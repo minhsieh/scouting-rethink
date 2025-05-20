@@ -1,5 +1,36 @@
-# Vue 3 + Vite
+# 童軍總會 X RE-THINK 全國海岸線海廢調查
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## 專案簡介
 
-Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://vuejs.org/guide/scaling-up/tooling.html#ide-support).
+這是「童軍總會 X RE-THINK 全國海岸線海廢調查」活動的官方網站。該活動旨在號召全國童軍團共同參與台灣海岸線的海洋廢棄物調查，透過長期監測來收集數據並提高環保意識。
+
+## 專案特色
+
+- **全國性調查**：覆蓋全台灣 146 個海灘點位
+- **長期監測**：每月調查一次，持續一年
+- **數據收集**：記錄海岸垃圾狀況，進行品牌審計調查
+- **環保教育**：提升童軍及大眾對海洋保育的認識
+
+## 技術架構
+
+- 前端框架：Vue.js 3
+- 構建工具：Vite
+- UI 框架：Tailwind CSS 和 DaisyUI
+- 部署平台：童軍總會伺服器
+
+## 相關資源
+
+網站提供多種活動相關資源下載，包括：
+- 說明會簡報與影片
+- 實施計畫文件
+- 調查表單與記錄表
+- 進度追蹤表
+
+## 聯絡資訊
+
+- [中華民國童軍總會](https://www.scout.org.tw/)
+- [RE-THINK 官方網站](https://rethinktw.org/)
+
+## 開發與維護
+
+本網站由童軍總會與 RE-THINK 合作開發，旨在提供活動參與者便捷的資訊獲取平台。
